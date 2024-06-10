@@ -1,8 +1,8 @@
-# Tap4 AI Web UI
+# 猫猫鱼 AI Web UI
 
-这是一个由[Tap4 AI工具导航站](https://tap4.ai)开源的AI导航站项目。我们的目标是让大家很容易就拥有一个属于自己的AI导航站，
-收录自己喜欢的AI工具产品。这个项目非常轻量级，维护简单，适合对AI导航站感兴趣的个人开发者，也适合对NextJs有兴趣的学习者，
-欢迎大家fork和star。
+这是一个由[猫猫鱼 AI工具导航站](https://tap4.ai)开源的AI导航站项目。我们的目标是让大家很容易就拥有一个属于自己的AI导航
+站，收录自己喜欢的AI工具产品。这个项目非常轻量级，维护简单，适合对AI导航站感兴趣的个人开发者，也适合对NextJs有兴趣的学习
+者，欢迎大家fork和star。
 
 [English](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.md) | 简体中文
 
@@ -57,12 +57,13 @@ git clone https://github.com/6677-ai/tap4-ai-webui.git
 
 - 使用visual studio code打开本项目
 - 执行shell：
+
 ```sh
 cp .env.example .env.local
 ```
+
 - 在 `.env.local` 填入数值。
 - 这里设置你的 supabase URL 和 KEY
-
 
 #### （4）在开发模式下运行
 
@@ -106,7 +107,7 @@ lib/data.ts -> detailList
 2. 输入数值并提交表单
 3. 打开并检查您的 Supabase 项目
 
-## 打算在 Tap4.ai 上提交您的网站？
+## 打算在 猫猫鱼.ai 上提交您的网站？
 
 ### 打算将您的网站添加到我们的 `/startup` 页面？
 
@@ -118,7 +119,7 @@ lib/data.ts -> detailList
 ### TAP4-AI-Directory
 
 全球AI工具的集合。| 收集免费的ChatGPT镜像、替代品、prompt、其他AI工具等。欲了解更多信息，请访
-问：[Tap4 AI](https://tap4.ai)
+问：[猫猫鱼 AI](https://tap4.ai)
 
 ### 如何在网站列表中获得您的首批用户
 

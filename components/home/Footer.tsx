@@ -34,11 +34,7 @@ export default function Footer() {
   const SupportLinks = [
     {
       title: t('tap4'),
-      href: 'https://www.tap4.ai',
-    },
-    {
-      title: t('tattoo'),
-      href: 'https://tattooai.design',
+      href: 'https://www.maomaoyu.coffee',
     },
   ];
 
@@ -54,7 +50,7 @@ export default function Footer() {
   ];
 
   return (
-    <footer className='w-full bg-[#151623]'>
+    <footer className='w-full bg-[#9b59b6]'>
       <div className='mx-auto flex min-h-[251px] max-w-pc flex-col items-center justify-between p-10 pb-5 lg:h-[180px] lg:flex-row lg:px-0 lg:pb-10'>
         <div className='flex flex-col items-center lg:items-stretch'>
           <h1 className='text-xl font-bold text-white lg:h-8 lg:text-[32px]'>{t('title')}</h1>

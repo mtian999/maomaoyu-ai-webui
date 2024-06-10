@@ -61,7 +61,7 @@ export default function SubmitForm({ className }: { className?: string }) {
       <form
         onSubmit={form.handleSubmit(onSubmit)}
         className={cn(
-          'mx-3 mb-5 flex h-[449px] flex-col justify-between rounded-[12px] bg-[#2C2D36] px-3 py-5 lg:h-[557px] lg:w-[444px] lg:p-8',
+          'mx-3 mb-5 flex h-[449px] flex-col justify-between rounded-[12px] bg-[#e6e6fa] px-3 py-5 text-[#ff7f50] lg:h-[557px] lg:w-[444px] lg:p-8',
           className,
         )}
       >
@@ -74,8 +74,8 @@ export default function SubmitForm({ className }: { className?: string }) {
                 <FormLabel>{t('website')}</FormLabel>
                 <FormControl>
                   <Input
-                    placeholder='Tap4 AI'
-                    className='input-border-pink h-[42px] w-full rounded-[8px] border-[0.5px] bg-dark-bg p-5'
+                    placeholder='猫猫鱼 AI'
+                    className='bg-pink-bg h-[42px] w-full rounded-[8px] border-[0.5px] p-5 text-black focus:border-[#ff7f50]'
                     {...field}
                   />
                 </FormControl>
@@ -92,7 +92,7 @@ export default function SubmitForm({ className }: { className?: string }) {
                 <FormControl>
                   <Input
                     placeholder={FORM_PLACEHOLDER}
-                    className='input-border-pink h-[42px] w-full rounded-[8px] border-[0.5px] bg-dark-bg p-5'
+                    className='bg-pink-bg h-[42px] w-full rounded-[8px] border-[0.5px] p-5 text-black focus:border-[#ff7f50]'
                     {...field}
                   />
                 </FormControl>
@@ -106,14 +106,14 @@ export default function SubmitForm({ className }: { className?: string }) {
             type='submit'
             disabled={loading}
             className={cn(
-              'flex-center mt-auto h-[48px] w-full gap-4 rounded-[8px] bg-white text-center font-bold text-black hover:cursor-pointer hover:opacity-80',
+              'flex-center text-write mt-auto h-[48px] w-full gap-4 rounded-[8px] bg-[#ff7f50] text-center font-bold text-white hover:cursor-pointer hover:opacity-80',
               loading && 'hover:cursor-not-allowed',
             )}
           >
             {loading ? <Spinning className='size-[22px]' /> : t('submit')}
           </button>
-          <p className='text-[13px] text-white/40'>
-            {t('add')} <span className='text-white'>{WEBSITE_EXAMPLE}</span> {t('text')}
+          <p className='text-[13px] text-[#ff7f50]'>
+            {t('add')} <span className='text-[#3498db]'>{WEBSITE_EXAMPLE}</span> {t('text')}
           </p>
         </div>
       </form>

@@ -22,7 +22,7 @@ export default function RootLayout({
   const messages = useMessages();
 
   return (
-    <html lang={locale} suppressHydrationWarning className='dark'>
+    <html lang={locale} suppressHydrationWarning className='coral'>
       <body className='relative mx-auto flex min-h-screen flex-col bg-tap4-black text-white'>
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Toaster
