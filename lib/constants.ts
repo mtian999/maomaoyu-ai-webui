@@ -15,7 +15,7 @@ export const NAV_LINKS = [
 
 export const PAGE_SIZE = 20;
 
-export const FORM_PLACEHOLDER = 'https://tap4.ai/';
+export const FORM_PLACEHOLDER = 'https://maomaoyu.coffee/';
 
 export const WEBSITE_EXAMPLE =
   '<a href="https://maomaoyu.coffee/" title="猫猫鱼 AI Tools Directory">猫猫鱼 AI Tools Diresctory</a>';
