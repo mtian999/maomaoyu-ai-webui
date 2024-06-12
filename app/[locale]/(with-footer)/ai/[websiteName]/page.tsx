@@ -21,6 +21,7 @@ export async function generateMetadata({
   return {
     title: `${res.data.title} | ${t('titleSubfix')}`,
     description: res.data.content,
+    keywords: res.data.name,
   };
 }
 
