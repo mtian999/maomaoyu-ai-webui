@@ -25,13 +25,16 @@ export type WebNavigationDetailData = {
 
 export const dataList: WebNavigationListRow[] = [
   {
-    id: '1792434701288771585',
-    name: 'woy-ai',
-    title: 'Woy AI Tools Directory',
-    content: 'Discover the top AI tools of 2024 with the Woy.ai AI Directory!',
-    url: 'https://woy.ai',
-    imageUrl: 'https://img.artiversehub.ai/2024/05/20/c5a29d0bd95f4788a592d363b3ee4117.png',
-    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/20/7d246f5ac3d240a4bc03e6c01d68f845.png',
+    id: '1792434701288771584',
+    name: 'luma-dream-machine',
+    title: 'Luma Dream Machine',
+    content:
+      'Dream Machine is an AI model that makes high quality, realistic videos fast from text and images from Luma AI,It is a highly scalable and efficient transformer model trained directly on videos making it capable of generating physically accurate, consistent and eventful shots. Dream Machine is our first step towards building a universal imagination engine and it is available to everyone now!',
+    url: 'https://lumalabs.ai',
+    imageUrl:
+      'https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/assets/dream-machine/featured/thumbnails/7.jpg',
+    thumbnailUrl:
+      'https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/assets/dream-machine/featured/thumbnails/7.jpg',
   },
   {
     id: '1792107164427784194',
@@ -254,9 +257,59 @@ export const dataList: WebNavigationListRow[] = [
     imageUrl: 'https://img.artiversehub.ai/2024/05/17/d46533e95b4e419bb043ed71dadbba06.png',
     thumbnailUrl: 'https://img.artiversehub.ai/2024/05/17/2f3ad3237754483a87032e17d0764b8d.png',
   },
+  {
+    id: '1792434701288771585',
+    name: 'woy-ai',
+    title: 'Woy AI Tools Directory',
+    content: 'Discover the top AI tools of 2024 with the Woy.ai AI Directory!',
+    url: 'https://woy.ai',
+    imageUrl: 'https://img.artiversehub.ai/2024/05/20/c5a29d0bd95f4788a592d363b3ee4117.png',
+    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/20/7d246f5ac3d240a4bc03e6c01d68f845.png',
+  },
 ];
 
 export const detailList: WebNavigationDetailData[] = [
+  {
+    name: 'luma-dream-machine',
+    title: 'Luma Dream Machine',
+    detail: `
+# Dream Machine
+## Your Gateway to Creative Dreaming
+
+### Introduction
+Dream Machine is the first in our family of frontier generative models that will help you dream with images, videos, text, and other expressive inputs. Unlike image-animation models that people have had to contend with so far, Dream Machine is a true video generation model. It’s fast for its class and capabilities, and we will continue to make it more efficient so limits won’t stand in the way of dreamers.
+
+### Technical Collaboration
+- We collaborated with **Amazon Web Services (AWS)** and utilized their best-in-class H100 training infrastructure **SageMaker HyperPod** to build Dream Machine.
+
+### Team Spirit
+- Dream Machine is built by a radically talented and very small team of researchers, engineers, and designers. We are obsessed with creating general intelligence in its most beautiful and useful form. We push ourselves to the limits and work with intensity in a collaborative environment with vast resources.
+
+### Join Us
+- If you feel the best work of your life is ahead of you, come join us.
+
+### User Experience
+Early feedback on the model has been enthusiastic, giving us the feeling of a thousand creative minds getting unshackled.
+
+### Conclusion
+We hope you enjoy playing with Dream Machine as much as we do!
+
+---
+
+### Contact Information
+- Website: [Luma Labs](https://lumalabs.ai/dream-machine)
+- Email: [contact@lumalabs.ai](mailto:contact@lumalabs.ai)
+
+*Enjoy the journey of creativity with Dream Machine..*
+`,
+    content:
+      'Dream Machine is an AI model that makes high quality, realistic videos fast from text and images from Luma AI,It is a highly scalable and efficient transformer model trained directly on videos making it capable of generating physically accurate, consistent and eventful shots. Dream Machine is our first step towards building a universal imagination engine and it is available to everyone now!',
+    url: 'https://lumalabs.ai',
+    imageUrl:
+      'https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/assets/dream-machine/featured/thumbnails/7.jpg',
+    thumbnailUrl:
+      'https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/assets/dream-machine/featured/thumbnails/7.jpg',
+  },
   {
     name: 'aigirl-best',
     title: 'Best AI Girl Friend Generator | AIGirl.best',
