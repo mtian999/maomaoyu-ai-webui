@@ -309,6 +309,11 @@ We hope you enjoy playing with Dream Machine as much as we do!
       'https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/assets/dream-machine/featured/thumbnails/7.jpg',
     thumbnailUrl:
       'https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/assets/dream-machine/featured/thumbnails/7.jpg',
+    collectionTime: '2024-06-13 00:00:00',
+    tagName: 'Website',
+    websiteData: '1000',
+    starRating: 5,
+    categoryName: 'Productivity',
   },
   {
     name: 'aigirl-best',
