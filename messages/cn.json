@@ -173,5 +173,8 @@
     "submit": {
       "title": "提交您的AI工具并获取流量 | 猫猫鱼 AI目录"
     }
+  },
+  "AIDetail": {
+    "luma-dream-machine": "# Dream Machine\n## 开启创意梦境的前沿生成模型\n\n### 简介\nDream Machine 是我们前沿生成模型家族中的开山之作，它将帮助您通过图像、视频、文本和其他富有表现力的输入来实现梦想。与传统的图像动画模型不同，Dream Machine 是一个真正的视频生成模型。在同类产品中，它的速度非常快，并且我们将继续提高其效率，以便限制不会阻碍梦想家的步伐。\n\n### 技术合作\n- 我们与 **Amazon Web Services (AWS)** 合作，使用了业界领先的 H100 训练基础设施 **SageMaker HyperPod** 来构建 Dream Machine。\n\n### 团队精神\n- Dream Machine 由一支极具天赋且规模极小的研究、工程和设计团队构建。我们致力于以最美丽和最有用的形态创造通用智能。我们在资源丰富的协作环境中，以极限挑战自我，以强烈的工作热情推动项目前进。\n\n### 加入我们\n- 如果您认为您一生中最好的工作还在前方，欢迎加入我们。\n\n### 用户体验\n早期对模型的反馈非常热情，让我们感受到了成千上万创造性思维的释放。\n\n### 结语\n我们希望您能像我们一样享受使用 Dream Machine 的乐趣！\n\n---\n\n### 联系方式\n- 网站: [Luma Labs](https://lumalabs.ai/dream-machine)\n- 邮箱: [contact@lumalabs.ai](mailto:contact@lumalabs.ai)\n\n*与 Dream Machine 一起，探索创意的无限可能。*"
   }
 }
