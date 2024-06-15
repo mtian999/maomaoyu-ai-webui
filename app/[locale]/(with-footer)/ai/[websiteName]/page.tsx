@@ -21,10 +21,13 @@ export async function generateMetadata({
   const DetailPageKeyword = await getTranslations('DetailPageKeyword');
   let currentDetailPageKeyword = DetailPageKeyword(res.data?.name);
   if (currentDetailPageKeyword === `DetailPageKeyword.${res.data?.name}`) {
-    currentDetailPageKeyword = res.data.name || '';
+    currentDetailPageKeyword = res.data.title || '';
+  } else {
+    currentDetailPageKeyword = `${currentDetailPageKeyword}, ${res.data.title}`;
   }
+  const currentTitle = currentDetailPageKeyword.replace(/,/g, ' |');
   return {
-    title: `${res.data.title} | ${t('titleSubfix')}`,
+    title: `${currentTitle} | ${t('titleSubfix')}`,
     description: res.data.content,
     keywords: currentDetailPageKeyword,
   };
