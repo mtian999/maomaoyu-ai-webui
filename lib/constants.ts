@@ -430,7 +430,7 @@ export const STARTUP_LIST = [
   {
     DA: 7,
     Website: '猫猫鱼 AI',
-    URL: 'https://tap4.ai/',
+    URL: 'https://maomaoyu.coffee/',
     Price: 'Free',
     Tag: 'AI',
   },

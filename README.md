@@ -1,8 +1,8 @@
 # 猫猫鱼 AI Web UI
 
-猫猫鱼 AI Web UI is the open source AI tools directory build by [猫猫鱼 AI Tools Directory](https://tap4.ai). The
-project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to vercel
-by one click and update your own ai tools by the dataList in the project.
+猫猫鱼 AI Web UI is the open source AI tools directory build by [猫猫鱼 AI Tools Directory](https://maomaoyu.coffee).
+The project aims to help everyone build their own AI Tools Directory easily. You can fork the project and deploy to
+vercel by one click and update your own ai tools by the dataList in the project.
 
 English | [简体中文](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.zh-CN.md)
 
@@ -107,7 +107,7 @@ lib/data.ts -> detailList
 2. input the values and then submit the form
 3. open and check your supabase project
 
-## Wanna submit your website on 猫猫鱼.ai?
+## Wanna submit your website on maomaoyu.coffee?
 
 ### Wanna add you website to our `/startup` page?
 
@@ -119,7 +119,7 @@ lib/data.ts -> detailList
 ### TAP4-AI-Directory
 
 The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools,
-etc. For more, please visit: [猫猫鱼 AI](https://tap4.ai)
+etc. For more, please visit: [猫猫鱼 AI](https://maomaoyu.coffee)
 
 ### How to get your first users for startup at the website list
 
