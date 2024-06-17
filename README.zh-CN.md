@@ -112,7 +112,7 @@ lib/data.ts -> detailList
 ### 打算将您的网站添加到我们的 `/startup` 页面？
 
 - 在这里打开一个问题：[TAP4-AI-Directory](https://github.com/6677-ai/TAP4-AI-Directory/issues)
-- 给我们发邮件：[contact@tap4.ai](mailto:contact@tap4.ai)
+- 给我们发邮件：[support@maomaoyu.coffee](mailto:support@maomaoyu.coffee)
 
 ## 我们产品的链接
 
