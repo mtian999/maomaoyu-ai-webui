@@ -37,6 +37,16 @@ export const dataList: WebNavigationListRow[] = [
       'https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/assets/dream-machine/featured/thumbnails/7.jpg',
   },
   {
+    id: '1791393780052955138',
+    name: 'suno_aI',
+    title: 'Suno AI',
+    content:
+      "Suno is building a future where anyone can make great music. Whether you're a shower singer or a charting artist, we break barriers between you and the song you dream of making. No instrument needed, just imagination. From your mind to music. The Power of Bark and Chirp: At the heart of Suno AI are its AI models, Bark and Chirp. Bark, the vocal genius, adds soul-stirring melodies to your lyrics, while Chirp, the non-vocal maestro, weaves intricate musical tapestries. The result? A harmonious blend that showcases the potential of AI in crafting personalized musical compositions.",
+    url: 'https://suno.com/',
+    imageUrl: 'https://img.artiversehub.ai/2024/05/17/f0970037821c497b851aded7715e9a0b.png',
+    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/17/0dbc6fbefd3b4eceb79dffcd673a9d37.png',
+  },
+  {
     id: '1792107164427784194',
     name: 'chatgpt-mac',
     title: 'ChatGPT for MacOS: Your AI Assistant for Enhanced Productivity',
@@ -111,16 +121,6 @@ export const dataList: WebNavigationListRow[] = [
     url: 'https://character.ai/',
     imageUrl: 'https://img.artiversehub.ai/2024/05/17/774ca19a2623414290072bc9f3a3c497.png',
     thumbnailUrl: 'https://img.artiversehub.ai/2024/05/17/75c333881a034f58a361e4cfa493d6ef.png',
-  },
-  {
-    id: '1791393780052955138',
-    name: 'suno_aI',
-    title: 'Suno AI',
-    content:
-      "Suno is building a future where anyone can make great music. Whether you're a shower singer or a charting artist, we break barriers between you and the song you dream of making. No instrument needed, just imagination. From your mind to music.",
-    url: 'https://suno.com/',
-    imageUrl: 'https://img.artiversehub.ai/2024/05/17/f0970037821c497b851aded7715e9a0b.png',
-    thumbnailUrl: 'https://img.artiversehub.ai/2024/05/17/0dbc6fbefd3b4eceb79dffcd673a9d37.png',
   },
   {
     id: '17913965023030513337',
@@ -460,9 +460,9 @@ We hope you enjoy playing with Dream Machine as much as we do!
     name: 'suno_aI',
     title: 'Suno AI',
     detail:
-      "# What is Suno AI?\nSuno AI is a revolutionary platform that empowers individuals to create great music without the need for musical instruments or prior knowledge. It transforms imagination into music, making the songwriting process accessible to everyone from amateur enthusiasts to professional musicians.\n\n# How to use Suno AI?\nTo start making music with Suno AI, follow these steps:\n1. Sign up on their website.\n2. Access the intuitive music creation platform.\n3. Explore various genres, rhythms, and melodies.\n4. Compose your unique tracks with the assistance of Suno AI's algorithms.\n\n# Suno AI's Core Features\n- **Intuitive Music Creation Platform**: A user-friendly interface for music composition.\n- **Artificial Intelligence Assistance**: AI algorithms help in the creative process.\n- **Access to Genres, Rhythms, and Melodies**: A wide range of musical styles to choose from.\n\n# Suno AI's Use Cases\n1. **Amateur Musicians**: For those beginning their music-making journey.\n2. **Professional Artists**: Seeking inspiration and assistance in composition.\n3. **Creative Individuals**: Exploring their musical talents and creativity.\n\n# FAQ from Suno AI\n- **Music Knowledge Requirement**: No prior music knowledge is needed to use Suno AI.\n- **Exporting Songs**: Users can export their compositions and use them for personal or commercial use.\n- **Compatibility with Music Software**: Suno AI supports export in file formats compatible with popular music production software.\n- **Data Security**: Suno AI takes user data security seriously and protects personal information and compositions.\n- **Collaboration Features**: Currently, Suno AI focuses on individual creation, with collaboration features in development.\n\n# Suno AI Support\n- **Support Email**: For customer service, reach out at hello@suno.ai.\n\n# Suno AI Company\n- **Company Name**: Suno, Inc.\n\n# Suno AI Social Media\n- **Twitter**: [Suno AI Twitter](https://twitter.com/suno_ai_)\n- **Instagram**: [Suno AI Instagram](https://www.instagram.com/suno_ai_)\n\nPlease note that while I can provide information based on the description given, the actual features, availability, and pricing of Suno AI's services may vary and should be verified on their official website or by contacting their support.",
+      "# What is Suno AI?\nSuno AI is a revolutionary platform that empowers individuals to create great music without the need for musical instruments or prior knowledge. It transforms imagination into music, making the songwriting process accessible to everyone from amateur enthusiasts to professional musicians.\n\nSuno AI is a pioneering force in the fusion of technology and creativity, offering an innovative AI music generator that transforms text prompts into custom songs through the collaboration of its two main AI models: Bark and Chirp.\n\n## Unleashing Creativity\nSuno AI aims to democratize music creation, enabling both aspiring songwriters and music enthusiasts to translate words into melodies. With a simple text prompt, users can explore their creative expression as Bark and Chirp work together to produce both vocal and instrumental parts of a song.\n\n## The Power of Bark and Chirp\n- **Bark**: The vocal genius, enriching lyrics with soulful melodies.\n- **Chirp**: The non-vocal maestro, creating complex musical arrangements.\n\nTogether, they produce a harmonious blend that demonstrates AI's capability in crafting personalized musical compositions.\n\n# How to use Suno AI?\nTo start making music with Suno AI, follow these steps:\n1. Sign up on their website.\n2. Access the intuitive music creation platform.\n3. Explore various genres, rhythms, and melodies.\n4. Compose your unique tracks with the assistance of Suno AI's algorithms.\n\n# Suno AI's Core Features\n- **Intuitive Music Creation Platform**: A user-friendly interface for music composition.\n- **Artificial Intelligence Assistance**: AI algorithms help in the creative process.\n- **Access to Genres, Rhythms, and Melodies**: A wide range of musical styles to choose from.\n\n# Suno AI's Use Cases\n1. **Amateur Musicians**: For those beginning their music-making journey.\n2. **Professional Artists**: Seeking inspiration and assistance in composition.\n3. **Creative Individuals**: Exploring their musical talents and creativity.\n\n# FAQ from Suno AI\n- **Music Knowledge Requirement**: No prior music knowledge is needed to use Suno AI.\n- **Exporting Songs**: Users can export their compositions and use them for personal or commercial use.\n- **Compatibility with Music Software**: Suno AI supports export in file formats compatible with popular music production software.\n- **Data Security**: Suno AI takes user data security seriously and protects personal information and compositions.\n- **Collaboration Features**: Currently, Suno AI focuses on individual creation, with collaboration features in development.\n\n# Suno AI Support\n- **Support Email**: For customer service, reach out at hello@suno.ai.\n\n# Suno AI Company\n- **Company Name**: Suno, Inc.\n\n# Suno AI Social Media\n- **Twitter**: [Suno AI Twitter](https://twitter.com/suno_ai_)\n- **Instagram**: [Suno AI Instagram](https://www.instagram.com/suno_ai_)\n\nPlease note that while I can provide information based on the description given, the actual features, availability, and pricing of Suno AI's services may vary and should be verified on their official website or by contacting their support.",
     content:
-      "Suno is building a future where anyone can make great music. Whether you're a shower singer or a charting artist, we break barriers between you and the song you dream of making. No instrument needed, just imagination. From your mind to music.",
+      "Suno is building a future where anyone can make great music. Whether you're a shower singer or a charting artist, we break barriers between you and the song you dream of making. No instrument needed, just imagination. From your mind to music. The Power of Bark and Chirp: At the heart of Suno AI are its AI models, Bark and Chirp. Bark, the vocal genius, adds soul-stirring melodies to your lyrics, while Chirp, the non-vocal maestro, weaves intricate musical tapestries. The result? A harmonious blend that showcases the potential of AI in crafting personalized musical compositions.",
     url: 'https://suno.com/',
     imageUrl: 'https://img.artiversehub.ai/2024/05/17/f0970037821c497b851aded7715e9a0b.png',
     thumbnailUrl: 'https://img.artiversehub.ai/2024/05/17/0dbc6fbefd3b4eceb79dffcd673a9d37.png',
