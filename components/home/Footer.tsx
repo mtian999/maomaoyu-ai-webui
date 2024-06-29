@@ -65,7 +65,7 @@ export default function Footer() {
                 key={item.href}
                 target='_blank'
                 rel='noreferrer'
-                className='text-xs hover:opacity-70 lg:text-base'
+                className='text-xs hover:opacity-70 lg:text-sm'
                 title={item.title}
               >
                 {item.title}
@@ -78,7 +78,7 @@ export default function Footer() {
             ))}
             <a
               href={`mailto:${CONTACT_US_EMAIL}`}
-              className='whitespace-nowrap text-xs hover:opacity-70 lg:text-base'
+              className='whitespace-nowrap text-xs hover:opacity-70 lg:text-sm'
               title={t('contactUs')}
               type='email'
             >

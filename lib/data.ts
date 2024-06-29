@@ -1,3 +1,4 @@
+// import { WebNavigationDetailData, WebNavigationListRow } from '../types';
 export type WebNavigationListRow = {
   content: string;
   id: string;
