@@ -1,7 +1,7 @@
 import { type MetadataRoute } from 'next';
 import { locales } from '@/i18n';
 
-import { dataList } from '@/lib/data';
+import { newDataList } from '@/lib/data';
 import { BASE_URL } from '@/lib/env';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -31,7 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
   ];
-  dataList.forEach((dataListItem) => {
+  newDataList.forEach((dataListItem) => {
     let routeUrl = dataListItem.name;
     routeUrl = routeUrl === '' ? '' : `ai/${routeUrl}`;
     sitemapRoutes.push({
