@@ -36,6 +36,10 @@ export default function Footer() {
       title: t('tap4'),
       href: 'https://www.maomaoyu.coffee',
     },
+    {
+      title: t('fate'),
+      href: 'https://fate.maomaoyu.coffee',
+    },
   ];
 
   const INFO_LIST = [
