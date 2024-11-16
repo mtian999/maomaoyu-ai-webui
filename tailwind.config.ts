@@ -14,8 +14,9 @@ const config = {
     },
     extend: {
       colors: {
-        'tap4-black': '#ff7f50',
+        'maomaoyu-orange': 'hsl(var(--background))',
         'dark-bg': '#1E1B24',
+        'link-color': '#3498db',
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
         ring: 'hsl(var(--ring))',

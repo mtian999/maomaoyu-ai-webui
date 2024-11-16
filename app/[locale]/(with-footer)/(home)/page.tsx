@@ -51,7 +51,7 @@ export default async function Page() {
         <div className='flex w-full items-center justify-center'>
           <SearchForm />
         </div>
-        <div className='mb-10 mt-5'>
+        <div className='mb-10 mt-5 w-full'>
           <TagList
             data={categoryList!.map((item) => ({
               id: String(item.id),

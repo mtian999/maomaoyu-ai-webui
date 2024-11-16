@@ -74,13 +74,13 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY，�
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://maomaoyu.coffee"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Contact email at the bottom
-CONTACT_US_EMAIL="contact@tap4.ai"
+CONTACT_US_EMAIL="support@maomaoyu.coffee"
 
 # Supabase database URL and key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co" NEXT_PUBLIC_SUPABASE_ANON_KEY="XXX.YYY.ZZZ"
@@ -136,7 +136,7 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY，�
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://maomaoyu.coffee"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX"
@@ -144,7 +144,7 @@ GOOGLE_TRACKING_ID="G-XXXXXXX"
 GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Contact email at the bottom
-CONTACT_US_EMAIL="contact@tap4.ai"
+CONTACT_US_EMAIL="support@maomaoyu.coffee"
 
 # Supabase database URL and key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co"
@@ -195,7 +195,14 @@ pnpm dev
 - 由于不同站点反爬虫机制的兼容性原因，目前爬虫可能出现加载失败的情况，此类问题目前需要手动去查询数据库submit表，然后手动
   去创建网站相关的内容，插入到web_navigation数据表中
 
-## 打算在 maomaoyu.coffee 上提交您的网站？
+### 如何获得初始化需要的AI工具列表？
+
+可以通过Tap4 AI开源的来自其他导航站的13000+个AI工具列表导入(支持sql和csv)：
+[AI Source List](https://github.com/6677-ai/tap4-ai-webui/blob/main/ai_source_list)
+
+## 打算在 Tap4.ai 上提交您的网站？
+
+请打开：[Tap4 AI](https://maomaoyu.coffee/submit)
 
 ### 打算将您的网站添加到我们的 `/startup` 页面？
 

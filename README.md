@@ -1,8 +1,8 @@
 # Open Source Tap4 AI Web UI
 
-This is an open-source AI Tools Directory project from [Tap4 AI Tool Directory](https://tap4.ai). Our goal is to make it
-easy for everyone to have their own AI Tools Directory, to collect their favorite AI tool products. This project is very
-lightweight and easy to maintain, suitable for individual developers interested in AI navigation sites, and also
+This is an open-source AI Tools Directory project from [Tap4 AI Tool Directory](https://maomaoyu.coffee). Our goal is to
+make it easy for everyone to have their own AI Tools Directory, to collect their favorite AI tool products. This project
+is very lightweight and easy to maintain, suitable for individual developers interested in AI navigation sites, and also
 suitable for learners interested in NextJs. Everyone is welcome to fork and star.
 
 [Simplified Chinese](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.zh-CN.md) | English
@@ -49,8 +49,7 @@ If you find the project helpful, please consider buying me a coffee:
 
 <!-- <a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> -->
 
-If you are interested in the project, please add my WeChat: helloleo2023, note: "tap4 ai open source", or scan the QR
-code: ![tap4-ai-wx](./public/images/tap4-ai-wechat.jpg)
+If you are interested in the project, please add my WeChat: helloleo2023, note: "tap4 ai open source"
 
 ## Deployment Instructions
 
@@ -80,13 +79,13 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY writ
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://maomaoyu.coffee"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Contact email at the bottom
-CONTACT_US_EMAIL="contact@tap4.ai"
+CONTACT_US_EMAIL="support@maomaoyu.coffee"
 
 # Supabase database URL and key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co"
@@ -145,13 +144,13 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY writ
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://maomaoyu.coffee"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Contact email at the bottom
-CONTACT_US_EMAIL="contact@tap4.ai"
+CONTACT_US_EMAIL="support@maomaoyu.coffee"
 
 # Supabase database URL and key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co" NEXT_PUBLIC_SUPABASE_ANON_KEY="XXX.YYY.ZZZ"
@@ -202,7 +201,14 @@ Due to compatibility issues with different site anti-crawling mechanisms, the cr
 such issues, you currently need to manually query the database submit table, and then manually create the relevant
 website content and insert it into the web_navigation table.
 
+### How to get the ai tools for project initialization?
+
+You can get the 13000+ AIs from Tap4 AI collected from other AI Tools Directory in
+[AI Source List](https://github.com/6677-ai/tap4-ai-webui/blob/main/ai_source_list)
+
 ## Wanna submit your website on Tap4.ai?
+
+Open: [Tap4 AI](https://maomaoyu.coffee)
 
 ### Wanna add you website to our `/startup` page?
 
@@ -211,15 +217,46 @@ website content and insert it into the web_navigation table.
 
 ## Links to our products
 
-### TAP4-AI-Directory
+### AI Video Online - Advanced AI Video All in One
 
 The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools,
-etc. For more, please visit: [Tap4 AI](https://tap4.ai)
+etc. For more, please visit: [Tap4 AI](https://maomaoyu.coffee)
 
-### How to get your first users for startup at the website list
+### Flux 1.1 Pro - Free Online Flux.1 AI Image Generator
 
-Here is the website list for submit your product to get users. Please visit
-[StartUp Your Product List](https://github.com/6677-ai/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
+[Flux 1.1 Pro](https://fluxproweb.com/)
+
+### Free Stable Diffusion 3 Online Tool
+
+[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online)
+
+### Free Tiny Png Tool
+
+[Free Type Png Tool](https://freetinypng.com)
+
+### Flux AI - Flux.1 AI Image Generator
+
+[Flux AI](https://flux-ai.io/)
+
+#### More API
+
+### Photo to Video AI
+
+Photo to Video AI is currently available for free experience, please visit
+[Photo to Video AI](https://dreammachineai.online/)
+
+### Flux Pro Image Generator
+
+Flux Pro Image Generator is currently available for free experience, please visit
+[Flux Pro Image Generator](https://flux-pro.net/)
+
+### Chat o1
+
+Chatbot build with openai o1 and chatgpt 4o, please visit [Chat O1](https://chat4o.ai/)
+
+### Grok Image Generator
+
+Grok Image Generator with flux ai, please visit [Grok Image Generator](https://grokimagegenerator.net/))
 
 ### Free Stable Diffusion 3 Online
 
@@ -231,17 +268,10 @@ Stable Diffusion 3 Medium is currently available for free experience, please vis
 Tattao AI Design is a tattoo ai generator and design for the tattoo fans. If you are interested with it, visit
 [Tattoo AI Design](https://tattooai.design)
 
-## Sponsor List
+### Claude 3.5 Sonnet
 
-### Anime Girl Studio -- AI Anime Girl Chat & Generator
-
-Anime Girl Studio is the ai anime girl generator and chat product. You can generate what you like and chat with the AI
-anime girl, please visit [Anime Girl Studio](https://animegirl.studio)
-
-### Best AI Girl Friend -- Best AI Girl Chat & Generator
-
-Best AI Girl Friend is the ai girl generator and chat product. You can generate what you like and chat with the AI anime
-girl, please visit [Best AI Girl Friend](https://aigirl.best)
+Claude 3.5 Sonnet is the most powerful llm model released by Claude AI. If you are interested with it, visit
+[Tattoo AI Design](https://claude35.org/)
 
 ## Other open source
 
